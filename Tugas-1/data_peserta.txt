@@ -1,0 +1,6 @@
+Data Peserta Sanbercode Bootcamp ReactJS
+1. Nama: Fahmi Ismail
+2. Email: email.gemail10@gmail.com
+3. Sistem Operasi yang digunakan: Windows 10
+4. Akun Gitlab: https://gitlab.com/fhmlsml
+5. Akun Telegram: @fhmlsml
