@@ -1,0 +1,97 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('../img/pattern.jpg');
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    background: #fff;
+    position: sticky;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav.nav-top ul {
+    display: flex;
+    list-style-type: none;
+}
+
+nav.nav-top li {
+    padding: 0 15px;
+    float: right;
+}
+
+section {
+    margin: 10px 15%;
+    background-color: #fff;
+    padding: 10px;
+}
+
+section h1 {
+    text-align: center;
+}
+
+#article-list div {
+    border-bottom: 1px solid #000;
+    margin-bottom: 50px;
+}
+
+
+footer {
+    color: #fff;
+    background: #000;
+    padding: 5px;
+}
+  
+footer h5 {
+    text-align: center;
+}
+
+
+/* ================================================== !ABOUT! =========================================================== */ 
+
+
+body#about-page {
+    background: unset;
+}
+
+div#about-div {
+    width: 50%;
+    padding: 20px;
+    margin: 80px auto 10px auto;
+    background-color: #fff;
+    border: 3px solid #ddd;
+
+}
+
+#about-div h1 {
+    text-align: center;
+}
+
+/* =================================================== !CONTACT! ========================================================== */ 
+
+
+body#contact-page {
+    background: unset;
+}
+
+div#contact-div  {
+    width: 50%;
+    padding: 20px;
+    margin: 80px auto 10px auto;
+    background-color: #fff;
+    border: 3px solid #ddd;
+
+}
+
+#contact-div h1 {
+    text-align: center;
+}
+
+#contact-div ul {
+    list-style: none;
+}
